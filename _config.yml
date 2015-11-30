@@ -1,7 +1,7 @@
 name: Jaeminane
 favicon: null
-layout_spectrum: 0.16605582693591714
-typography_spectrum: 0.40814870316535234
+layout_spectrum: 1
+typography_spectrum: 0.51272
 title: Jaeminane
 cta:
   domain: null
@@ -17,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.02670465293340385
+    - '#303134'
+    - '#dd5694'
+    - '#f5f4ef'
+    - '#bbbbbc'
+    - '#8b8987'
+  brandStrength: 0.5
   lightness: 0.05555154616013169
   saturation: 0.92627615458332
   rhythmicContrast: 0.7386225541122258
